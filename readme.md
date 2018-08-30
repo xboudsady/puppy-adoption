@@ -7,7 +7,7 @@ Welcome to puppy adoption center.  Here you will find these cute critters in nee
  * CSS
  * jQuery
 
-# [Demo Site]()
+# [Demo](https://puppy-adoptions.herokuapp.com/index.html)
 
 ## Screenshot 
 ![Screen Shot](https://github.com/xboudsady/puppy-adoption/blob/master/images/site-screenshot.png)
